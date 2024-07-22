@@ -415,6 +415,8 @@ This is a curated list of contributions by individual contributors, and all righ
    > - https://metaschool.so/courses
    > - https://www.metacrafters.io
    > - https://learnweb3.io/level-up
+    ### Solidity and Rust :
+   > - https://cryptozombies.io/
 
 ### Web Development
 
